@@ -1,0 +1,2 @@
+# SlotMachine-
+Basic slot Machine 
